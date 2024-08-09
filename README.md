@@ -25,4 +25,4 @@ Este es un proyecto básico de gestión de tareas (To-Do List) desarrollado en P
 1. **Clonar el repositorio (opcional):**
 
    ```bash
-   git clone [https://github.com/](https://github.com/)<tu_usuario>/todo-list-php.git
+   git clone [https://github.com/Jesusguz/todo_ListApp.git]
