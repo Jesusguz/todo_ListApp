@@ -1,6 +1,6 @@
 <?php
 
-// Incluir archivos necesarios
+
 require_once '../../config/config.php';
 require_once '../../src/Database.php';
 require_once '../Task.php';
