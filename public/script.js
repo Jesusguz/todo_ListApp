@@ -77,8 +77,7 @@ document.addEventListener('DOMContentLoaded', function() {
         `;
         taskList.appendChild(taskItem);
 
-        // Agregar event listeners para los botones de editar y eliminar (implementar más adelante)
-        // ...
+       
     }
 
     // Función para agregar una tarea a la lista (en el DOM)
@@ -152,7 +151,7 @@ document.addEventListener('DOMContentLoaded', function() {
                 (!data.status) {
                     alert('Error al actualizar el estado de la tarea: ' + data.message);
                 } else {
-                    // Puedes actualizar el estado visualmente en la interfaz si es necesario
+                   
                 }
             });
     }
